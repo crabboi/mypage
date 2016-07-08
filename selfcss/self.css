@@ -12,5 +12,17 @@
 }
 .upper{
 	background-color: grey;
-	position: fixed;
+}
+#wrap{
+	font-size: 35pt;
+}
+#frog{
+	width:600px;
+	height: 1000px;
+	float: left;
+}
+#frug{
+	width: 300px;
+	height: 300px;
+	float: left;
 }
