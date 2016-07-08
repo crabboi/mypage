@@ -1,0 +1,16 @@
+#name{
+	padding: 2pt 2pt 2pt 2pt;
+	border:5pt solid blue;
+	width: 300px;
+}
+.top{
+	list-style-type: none;
+	display: inline;
+	padding: 1px 5px 1px 5px;
+	margin:0px 3px 0px 3px;
+	font-size: 30pt;
+}
+.upper{
+	background-color: grey;
+	position: fixed;
+}
