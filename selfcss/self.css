@@ -1,7 +1,8 @@
-#name{
+h1{
 	padding: 2pt 2pt 2pt 2pt;
 	border:5pt solid blue;
-	width: 300px;
+	width: 400px;
+	font-size: 40pt;
 }
 .top{
 	list-style-type: none;
@@ -13,16 +14,22 @@
 .upper{
 	background-color: grey;
 }
-#wrap{
+.wrap{
 	font-size: 35pt;
 }
 #frog{
 	width:600px;
-	height: 1000px;
+	height: 700px;
 	float: left;
+	border: 3pt solid grey;
 }
 #frug{
 	width: 300px;
 	height: 300px;
 	float: left;
+}
+
+#mmx4space{
+	background-image: url(background images/mmx4space.gif);
+	background-repeat: no-repeat;
 }
