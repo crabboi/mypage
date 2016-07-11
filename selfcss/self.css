@@ -30,6 +30,15 @@ h1{
 }
 
 #mmx4space{
-	background-image: url(background images/mmx4space.gif);
-	background-repeat: no-repeat;
+	background-image: url(../selfbackgrounds/mmx4space.gif);
+	background-repeat: no-repeat
+}
+.mystory{
+	float:left;
+	width: 400px;
+	height: 400px;
+	font-size: 30pt;
+}
+#story{
+	background-image: url(../selfbackgrounds/sf3alexstage.png);
 }
