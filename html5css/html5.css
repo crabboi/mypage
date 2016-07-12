@@ -1,0 +1,28 @@
+li{
+	list-style-type: none;
+	display: inline;
+	margin: 1pt 5pt 1pt 5pt;
+	padding:0pt 3pt 0pt 3pt;
+}
+ul{
+	background-color: grey;
+}
+a{
+	color:rgb(255, 255, 255);
+}
+body{
+	background-image:url(https://lh3.googleusercontent.com/-K_Wy6vpJugg/AAAAAAAAAAI/AAAAAAAAABo/N_2BsNNLKLs/s265-c-k-no/photo.jpg);
+}
+.kanstar{
+	color:rgb(255, 255, 255);
+}
+.kamster{
+	float:right;
+}
+header{
+	clear:all;
+	font-size:28pt;
+}
+h1{
+	
+}

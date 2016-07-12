@@ -1,6 +1,7 @@
 h1{
 	padding: 2pt 2pt 2pt 2pt;
-	border:5pt solid blue;
+	border:5pt solid grey;
+	background-color: grey;
 	width: 400px;
 	font-size: 40pt;
 }
@@ -22,6 +23,7 @@ h1{
 	height: 700px;
 	float: left;
 	border: 3pt solid grey;
+	background-color: grey;
 }
 #frug{
 	width: 300px;
@@ -36,9 +38,13 @@ h1{
 .mystory{
 	float:left;
 	width: 400px;
-	height: 400px;
-	font-size: 30pt;
+	height: 200px;
+	font-size: 20pt;
+	color: 
 }
 #story{
 	background-image: url(../selfbackgrounds/sf3alexstage.png);
+}
+#kuririn{
+	float: right;
 }
