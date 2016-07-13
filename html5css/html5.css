@@ -24,5 +24,10 @@ header{
 	font-size:28pt;
 }
 h1{
-	
+	padding: 2pt 2pt 2pt 2pt;
+	border:5pt solid grey;
+	background-color: grey;
+	width: 400px;
+	font-size: 40pt;
+	margin: 0pt 0pt 0pt 0pt;
 }

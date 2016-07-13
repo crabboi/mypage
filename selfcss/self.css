@@ -4,12 +4,13 @@ h1{
 	background-color: grey;
 	width: 400px;
 	font-size: 40pt;
+	margin: 0pt 0pt 0pt 0pt;
 }
 .top{
 	list-style-type: none;
 	display: inline;
 	padding: 1px 5px 1px 5px;
-	margin:0px 3px 0px 3px;
+	margin:0px 3px 0px 0px;
 	font-size: 30pt;
 }
 .upper{
@@ -19,11 +20,12 @@ h1{
 	font-size: 35pt;
 }
 #frog{
-	width:600px;
-	height: 700px;
+	width:700px;
+	height: 610px;
 	float: left;
 	border: 3pt solid grey;
 	background-color: grey;
+	margin: 0pt 0pt 0pt 0pt;
 }
 #frug{
 	width: 300px;
@@ -33,18 +35,25 @@ h1{
 
 #mmx4space{
 	background-image: url(../selfbackgrounds/mmx4space.gif);
-	background-repeat: no-repeat
+	background-repeat: no-repeat;
 }
 .mystory{
 	float:left;
 	width: 400px;
 	height: 200px;
 	font-size: 20pt;
-	color: 
+	background-color: red;
 }
 #story{
 	background-image: url(../selfbackgrounds/sf3alexstage.png);
 }
-#kuririn{
+#righ{
 	float: right;
+}
+#info{
+	font-size: 30pt;
+	background-color: grey;
+	border: 1pt solid grey;
+	float: right;
+	width: 500px;
 }
