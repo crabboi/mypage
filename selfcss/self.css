@@ -69,7 +69,14 @@ h1{
 }
 #mission{
 	float: right;
-	background-color: grey;
-	width: 500px;
+	background-color: red;
+	width: 700px;
 	font-size: 30pt;
+}
+.hlist{
+	width: 300px;
+	font-size:25pt;
+	background-color: grey;
+	float: left;
+	margin: 0pt 90pt 0pt 0pt;
 }
