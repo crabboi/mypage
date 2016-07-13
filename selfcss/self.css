@@ -39,10 +39,10 @@ h1{
 }
 .mystory{
 	float:left;
-	width: 400px;
-	height: 200px;
+	width: 500px;
 	font-size: 20pt;
 	background-color: red;
+	margin: 1pt 1pt 1pt 1pt;
 }
 #story{
 	background-image: url(../selfbackgrounds/sf3alexstage.png);
@@ -56,4 +56,20 @@ h1{
 	border: 1pt solid grey;
 	float: right;
 	width: 500px;
+}
+#lidi{
+	background-image: url(../selfbackgrounds/sf33strikeurienstage.png);
+}
+#skillz{
+	float: left;
+	font-size: 19pt;
+	width: 300px;
+	clear: left;
+	background-color: red;
+}
+#mission{
+	float: right;
+	background-color: grey;
+	width: 500px;
+	font-size: 30pt;
 }

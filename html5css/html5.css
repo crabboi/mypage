@@ -7,9 +7,6 @@ li{
 ul{
 	background-color: grey;
 }
-a{
-	color:rgb(255, 255, 255);
-}
 body{
 	background-image:url(https://lh3.googleusercontent.com/-K_Wy6vpJugg/AAAAAAAAAAI/AAAAAAAAABo/N_2BsNNLKLs/s265-c-k-no/photo.jpg);
 }
@@ -30,4 +27,11 @@ h1{
 	width: 400px;
 	font-size: 40pt;
 	margin: 0pt 0pt 0pt 0pt;
+}
+li{
+	list-style-type: none;
+	display: inline;
+	padding: 1px 5px 1px 5px;
+	margin:0px 3px 0px 0px;
+	font-size: 30pt;
 }
